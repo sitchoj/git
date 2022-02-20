@@ -5,3 +5,4 @@ estoy en remoto prro
 asi es vamonos a la rama vato
 el codero
 el bachata
+el print de python es una palabra reservada
