@@ -1,9 +1,1 @@
-mascota tux
-el perro de perros
-el matas
-
-
-el ranas
-
-
-hola soy el nuevo terminal de linux windows
+soy el segundo jefe
