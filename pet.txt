@@ -1,4 +1,1 @@
-soy el segundo jefe
-soy el master en linux
-
-soy el master en shell
+gusano
