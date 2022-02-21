@@ -3,6 +3,10 @@ hola pichi
 estoy en remoto prro
 
 asi es vamonos a la rama vato
+<<<<<<< HEAD
 el codero
 el bachata
 el print de python es una palabra reservada
+=======
+el ramones
+>>>>>>> d111bc55217cb9967fa7788981aed5e1e340eb74
